@@ -1,0 +1,5 @@
+Enter num1
+Enter num2
+Enter opertator from (+ - * / %)
+Set ans = num1 opertator num2
+Print ans
