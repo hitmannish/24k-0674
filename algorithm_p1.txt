@@ -1,0 +1,9 @@
+Input Nth, n
+IF Nth % n == 0
+  Print n is a divisor to Nth
+  IF Nth % 2 == 0
+    Print even
+  Else 
+    Print odd
+Else 
+  Print n is not a divisor to Nth
