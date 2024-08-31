@@ -1,0 +1,26 @@
+Enter n
+If n == 1
+  Print january
+If n == 2
+  Print febuary
+If n == 3
+  Print march
+If n == 4
+  Print april
+If n == 5
+  Print may
+If n == 6
+  Print june
+If n == 7
+  Print july
+If n == 8
+  Print august
+If n == 9
+  Print september
+If n == 10
+  Print october
+If n == 11
+  Print november
+If n == 12
+  Print december
+
