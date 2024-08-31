@@ -7,3 +7,4 @@ ELSE IF num2>num1 and num2>num3
 ELSE
   Print "num3 is the biggest"
   
+END
