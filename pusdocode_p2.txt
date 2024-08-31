@@ -1,3 +1,4 @@
 input num1, num2, num3
 SET sum = num1 -- num2 -- num3
 Print sum
+END
