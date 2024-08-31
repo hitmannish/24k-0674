@@ -1,0 +1,8 @@
+INPUT num1, num2
+Ask wh the user want to add by pressing + or subtract by pressing - key
+if used pressed +
+  SET ans = num1 + num2
+else 
+  SET ans = num1 - num2
+Print ans
+END
